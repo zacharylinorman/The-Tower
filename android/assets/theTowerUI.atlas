@@ -1,0 +1,41 @@
+
+theTowerUI.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+arrowButtonDown
+  rotate: false
+  xy: 2, 2
+  size: 210, 49
+  orig: 210, 49
+  offset: 0, 0
+  index: -1
+arrowButtonUp
+  rotate: false
+  xy: 2, 53
+  size: 210, 49
+  orig: 210, 49
+  offset: 0, 0
+  index: -1
+jumpButtonDown
+  rotate: false
+  xy: 296, 104
+  size: 145, 145
+  orig: 145, 145
+  offset: 0, 0
+  index: -1
+jumpButtonUp
+  rotate: false
+  xy: 2, 104
+  size: 145, 145
+  orig: 145, 145
+  offset: 0, 0
+  index: -1
+moveCircle
+  rotate: false
+  xy: 149, 104
+  size: 145, 145
+  orig: 145, 145
+  offset: 0, 0
+  index: -1
